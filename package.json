@@ -1,0 +1,16 @@
+{
+  "name": "whatsappbot",
+  "version": "1.0.0",
+  "description": "This is a whatsapp bot to send and receive messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.21.0"
+  }
+}
